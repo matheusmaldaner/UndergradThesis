@@ -1,6 +1,6 @@
 # Release notes
 
-## Planned v0.1.0 — reconstructed preservation archive
+## v0.1.0 — reconstructed preservation archive (2026-09-16)
 
 This release collects the thesis-era notebooks and supporting evidence recovered from HiPerGator in September 2026. It is a retrospective reproducibility archive and was not part of the thesis submitted or examined in 2025.
 
