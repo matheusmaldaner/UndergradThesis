@@ -44,7 +44,7 @@ The complete public Git history of `matheusmaldaner/ExpLogic` was compared by SH
 
 ## Publication decision
 
-All 30 files were moved to the separate private repository `matheusmaldaner/UndergradThesisRestrictedArchive`. The public repository excludes their bytes from its published Git history. It retains:
+All 30 files were moved to the separate private repository `matheusmaldaner/UndergradThesisRestrictedArchive`. The public repository excludes the 28 Blue-unique contents from its published Git history. Two byte-identical configuration notebooks remain through their independently recovered, author-controlled Orange copies. It retains:
 
 - provenance and checksum descriptions;
 - aggregate Fashion-MNIST timing results; and

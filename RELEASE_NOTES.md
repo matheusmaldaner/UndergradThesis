@@ -19,6 +19,6 @@ This release collects the thesis-era notebooks and supporting evidence recovered
 - Raw local artifacts match their recorded HiPerGator sources.
 - The reconstructed outputs are stable in local tests and GitHub Actions.
 - No credential patterns remain in proposed Git content.
-- All 30 files owned by the collaborator account on HiPerGator are excluded from the public repository history and preserved in a separate private restricted archive.
+- All 30 Blue-directory copies are preserved in a separate private restricted archive. The 28 unique contents are excluded from public history; two byte-identical, author-controlled Orange copies remain and are explicitly mapped.
 
 The historical credential was never committed; its revocation remains a separate account-security follow-up.

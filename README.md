@@ -44,7 +44,7 @@ The private artifact audit used recovered prediction CSVs to derive the confusio
 | FPGA results | Implementation and synthesis artifacts exist; table sizes and some timings remain unreconciled |
 | Visualizer | Structural graph functionality confirmed; some thesis descriptions exceed the released implementation |
 
-Thirty collaborator-owned files are preserved in a separate private restricted archive and are absent from this repository and its public history. See [`RIGHTS_AND_ATTRIBUTION.md`](RIGHTS_AND_ATTRIBUTION.md) and the completed [`PUBLIC_RELEASE_CHECKLIST.md`](PUBLIC_RELEASE_CHECKLIST.md).
+The 30 Blue-directory copies are preserved in a separate private restricted archive. Twenty-eight unique contents are absent from this repository and its public history; two configuration notebooks remain only through byte-identical, author-controlled Orange copies. See [`RIGHTS_AND_ATTRIBUTION.md`](RIGHTS_AND_ATTRIBUTION.md) and the completed [`PUBLIC_RELEASE_CHECKLIST.md`](PUBLIC_RELEASE_CHECKLIST.md).
 
 ## Related repositories
 

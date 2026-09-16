@@ -8,7 +8,7 @@ Files recovered from Matheus Kunzler Maldaner's Orange and personal thesis direc
 
 ## Shared collaborator material
 
-Thirty files were recovered from a shared project directory belonging to Stephen Wormald. HiPerGator reported `stephen.wormald` as owner, `woodard` as group, and mode `0644` for all 30. They are preserved in the separate private repository `matheusmaldaner/UndergradThesisRestrictedArchive` and are absent from this public archive and its published Git history.
+Thirty files were recovered from a shared project directory belonging to Stephen Wormald. HiPerGator reported `stephen.wormald` as owner, `woodard` as group, and mode `0644` for all 30. They are preserved in the separate private repository `matheusmaldaner/UndergradThesisRestrictedArchive`. Twenty-eight unique contents are absent from this public archive and its published Git history. Two configuration notebooks have byte-identical, author-controlled Orange copies that remain in the public archive; those equivalents are identified in `artifacts/RESTRICTED_ARTIFACTS.csv`.
 
 The file-by-file comparison in [`docs/shared-material-review-2026-09-16.md`](docs/shared-material-review-2026-09-16.md) records filesystem ownership, exact duplicates, code-cell overlap with author-controlled Orange copies, and comparison with the public ExpLogic history. Filesystem ownership is evidence about the storage account, not a final copyright determination; separation avoids relying on an unsupported rights inference.
 

@@ -7,4 +7,4 @@ These small files were produced during the September 2026 private artifact audit
 
 Run `python scripts/reproduce_mininet_table.py` to regenerate the public files under `results/`. The script verifies that all four runs and all 40 model/class pairs are present.
 
-The source files' paths, sizes, and SHA-256 hashes are recorded in `artifacts/RESTRICTED_ARTIFACTS.csv`. Their bytes are stored only in the private `matheusmaldaner/UndergradThesisRestrictedArchive` repository because HiPerGator attributes all of them to `stephen.wormald` and redistribution permission has not been established.
+The source files' paths, sizes, and SHA-256 hashes are recorded in `artifacts/RESTRICTED_ARTIFACTS.csv`. The 28 unique contents are stored only in the private `matheusmaldaner/UndergradThesisRestrictedArchive` repository; two configuration notebooks also have byte-identical, author-controlled Orange copies in this archive because HiPerGator attributes all of them to `stephen.wormald` and redistribution permission has not been established.
