@@ -1,7 +1,7 @@
 repositories:
   thesis_source:
     url: https://github.com/matheusmaldaner/OverleafUndergradThesis
-    commit: 6a7051bfd59c9f9c5a318206e07577cd64d733a2
+    commit: 7e965043ca9467cedc27a1ec364d5ae8ad383169
     archival_import_commit: bc1e5b8651bfa3ec6768f8e4d1d9b7cda9d157a5
     note: The archival import is the earliest preserved repository snapshot after thesis acceptance; the current commit includes later formatting and editorial revisions.
   ecologic:

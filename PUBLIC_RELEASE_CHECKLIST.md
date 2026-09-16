@@ -16,8 +16,9 @@ This checklist records the preparation of the public preservation archive.
 - [x] Remove all 30 `stephen.wormald`-owned files from the public archive and preserve them in a separate private restricted repository.
 - [x] Define licenses and rights scopes for reconstruction code, documentation, derived results, and historical artifacts in `LICENSE.md`.
 - [x] Change `matheusmaldaner/UndergradThesis` from private to public.
-- [ ] Create a versioned GitHub release after the public commit passes CI.
+- [x] Create a versioned GitHub release after the public commit passes CI.
 - [ ] Archive that release with Zenodo and add the DOI to `CITATION.cff` and the README.
-- [ ] Add the public archive link and DOI to the thesis and implementation repositories.
+- [x] Add the public archive link to the thesis and implementation repositories.
+- [ ] Add the archive DOI to the thesis and implementation repositories after Zenodo deposit.
 
 Do not treat the checked reconstruction items as retrospective participation in the original thesis. The repository-level disclosure in the README must remain in public releases.

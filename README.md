@@ -2,6 +2,8 @@
 
 This repository is the central archival and reproducibility companion for Matheus Kunzler Maldaner's 2025 University of Florida undergraduate thesis on Differentiable Logic Gate Networks. It preserves the notebooks and experimental records that were previously distributed across HiPerGator storage, and it provides small, deterministic scripts for checking the thesis's quantitative results.
 
+The current archival release is [`v0.1.0`](https://github.com/matheusmaldaner/UndergradThesis/releases/tag/v0.1.0).
+
 The original implementation repositories remain separate because they have their own histories, releases, and Zenodo records. Exact repository versions are pinned in [`external-repositories.yml`](external-repositories.yml).
 
 ## Reconstruction disclosure
