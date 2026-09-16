@@ -1,0 +1,26 @@
+repositories:
+  thesis_source:
+    url: https://github.com/matheusmaldaner/OverleafUndergradThesis
+    commit: 6a7051bfd59c9f9c5a318206e07577cd64d733a2
+    archival_import_commit: bc1e5b8651bfa3ec6768f8e4d1d9b7cda9d157a5
+    note: The archival import is the earliest preserved repository snapshot after thesis acceptance; the current commit includes later formatting and editorial revisions.
+  ecologic:
+    url: https://github.com/matheusmaldaner/EcoLogic
+    tag: v1.0.0
+    commit: 7bdb079498a75f839d97d2ac0af2cbffec54c71b
+    doi: 10.5281/zenodo.15099270
+  explogic:
+    url: https://github.com/matheusmaldaner/ExpLogic
+    tag: v1.0.0
+    commit: fde72e80784c28b519ce6975f5b89364f50f80e4
+    doi: 10.5281/zenodo.15099409
+  difflogic_visualizer:
+    url: https://github.com/matheusmaldaner/DiffLogicVisualizer
+    tag: v1.0.0
+    commit: 0c692ba627f915098bbc229ba36980a4fcc49450
+    doi: 10.5281/zenodo.15099266
+  saliency_slider:
+    url: https://github.com/matheusmaldaner/SaliencySlider
+    tag: v1.0.0
+    commit: 89c5f559fde9d24a2f28a6d901fc10a8c7b8c4a9
+    doi: 10.5281/zenodo.15093818

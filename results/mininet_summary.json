@@ -1,0 +1,21 @@
+{
+  "models": [
+    "000",
+    "001",
+    "002",
+    "003"
+  ],
+  "runs": 4,
+  "samples_per_run": [
+    8920,
+    8920,
+    8920,
+    8920
+  ],
+  "parent_ten_class_accuracy_mean": 0.9211603139013453,
+  "mininet_macro_accuracy": 0.9468469730941704,
+  "mininet_macro_precision": 0.6809298703305865,
+  "mininet_macro_recall_corrected": 0.942572869955157,
+  "mininet_macro_recall_historical_formula": 0.10982052839544458,
+  "mininet_macro_f1": 0.78679772491812
+}

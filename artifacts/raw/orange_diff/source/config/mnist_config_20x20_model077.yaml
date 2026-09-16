@@ -1,0 +1,201 @@
+models:
+  model_000:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 10
+  model_001:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 10
+  model_002:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 10
+  model_003:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 10
+  model_004:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 10
+  model_005:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 5
+  model_006:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 10
+  model_007:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 15
+  model_008:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 20
+  model_009:
+    input_dim: 400
+    layers_config:
+      LogicLayer001:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 400
+        out_dim: 2500
+      LogicLayer002:
+        connections: random
+        device: cuda
+        grad_factor: 1
+        implementation: cuda
+        in_dim: 2500
+        out_dim: 2500
+    learning_rate: 0.01
+    output_size: 10
+    tau: 25

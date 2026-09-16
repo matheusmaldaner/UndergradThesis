@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility archive, please cite the undergraduate thesis and the archived implementation releases listed in the README."
+title: "Undergraduate Thesis Reproducibility Archive: Differentiable Logic Gate Networks"
+type: dataset
+authors:
+  - family-names: "Kunzler Maldaner"
+    given-names: "Matheus"
+repository-code: "https://github.com/matheusmaldaner/UndergradThesis"
+date-released: 2026-09-16
+version: 0.1.0
+
